@@ -1,7 +1,6 @@
 # creatingTgbot
 Write this code after creating venv for Tgbot
 
-
   from aiogram import Bot, Dispatcher, executor, types
   
   bot = Bot(token='6359023502:AAEzYzpjuIzvjvmHycEZZBUfCQSvAXpKhR0')
